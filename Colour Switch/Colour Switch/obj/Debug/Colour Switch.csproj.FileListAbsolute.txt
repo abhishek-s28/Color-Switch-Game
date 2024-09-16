@@ -1,0 +1,10 @@
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\bin\Debug\Colour Switch.exe.config
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\bin\Debug\Colour Switch.exe
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\bin\Debug\Colour Switch.pdb
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\obj\Debug\Colour Switch.csprojAssemblyReference.cache
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\obj\Debug\Colour_Switch.Form1.resources
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\obj\Debug\Colour_Switch.Properties.Resources.resources
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\obj\Debug\Colour Switch.csproj.GenerateResource.cache
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\obj\Debug\Colour Switch.csproj.CoreCompileInputs.cache
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\obj\Debug\Colour Switch.exe
+C:\Users\Shah\Desktop\Colour Switch\Colour Switch\obj\Debug\Colour Switch.pdb
